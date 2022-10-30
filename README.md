@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewAntoniuk
-- 👀 I’m interested in music, series, films and of course programming 
-- 🌱 I’m currently learning JS, React, Redux, English 
+- 👀 I’m interested in music, series, films and ofc programming 
+- 🌱 I’m currently learning TS, NEXT.js, PostgreSQL 
 - 📫 How to reach me? Via email: andrewantonuik@gmail.com 
 
 <!---
