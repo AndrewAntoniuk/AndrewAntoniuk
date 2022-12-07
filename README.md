@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewAntoniuk
 - 👀 I’m interested in music, series, films and ofc programming 
-- 🌱 I’m currently learning TS, NEXT.js, PostgreSQL 
+- 🌱 I’m currently learning Prisma, NEXT.js, tRPC
 - 📫 How to reach me? Via email: andrewantonuik@gmail.com 
 
 <!---
